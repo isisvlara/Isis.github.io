@@ -1,2 +1,2 @@
 # Isis.github.io
- # A porfolio of projects combined
+ A porfolio of projects combined
